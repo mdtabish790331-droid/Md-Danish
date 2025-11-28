@@ -59,16 +59,16 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdtabish790331-droid&show_icons=true&theme=tokyonight" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdtabish790331-droid&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats-mdtabish790331-droid.vercel.app/api?username=mdtabish790331-droid&show_icons=true&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats-mdtabish790331-droid.vercel.app/api/top-langs/?username=mdtabish790331-droid&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
 ## 📈 Most Used Languages
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdtabish790331-droid&layout=compact&theme=tokyonight&langs_count=10" />
-</p>
+<img width="48%" src="https://github-readme-stats-mdtabish790331-droid.vercel.app/api/top-langs/?username=mdtabish790331-droid&layout=compact&theme=tokyonight" />
+
 
 ---
 
