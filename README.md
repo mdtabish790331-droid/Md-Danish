@@ -1,40 +1,82 @@
-<h1 align="center">Hi 👋, I'm Danish</h1>
-<h3 align="center">A passionate C / Java / Python Developer</h3>
+<h1 align="center">Hi 👋, I'm Mohammad Danish</h1>
+<h3 align="center">A passionate Frontend & AI Enthusiast from India</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-## 🚀 About Me
-- 🌱 I’m currently learning **AI / ML**
-- 👨‍💻 All of my projects are available here on GitHub
-- 💬 Ask me about **C, Java, Python**
-- ⚡ Fun fact: **I love building cool things**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdtabish790331-droid&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
-## 🛠 Languages & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,react,nodejs,mysql,git,github&theme=dark" />
+<!-- Coding GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on **Agro-Analytica**  
+- 🌱 Learning **Deep Learning, Machine Learning**  
+- 👯 Collaboration on **AI-Based Body Measurement & Movement Recognition System**  
+- 🤝 Looking for help with **Deep Learning**  
+- 👨‍💻 All my projects → **https://github.com/mdtabish790331-droid**  
+- 📫 Reach me at **mdtabish790331@gmail.com**  
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+<a href="https://twitter.com/moh_danish_" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" height="50" />
+</a>
+<a href="https://linkedin.com/in/mohammad danish" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+<a href="https://instagram.com/danishismanifesting" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="50" />
+</a>
+<a href="https://www.hackerrank.com/@mdtabish811201" target="_blank">
+  <img src="https://skillicons.dev/icons?i=hackerrank" height="50" />
+</a>
+</p>
+
+---
+
+## 🛠 Languages & Tools  
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,react,nodejs,mysql,git,github,linux,blender,ps&theme=dark" height="60" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mdtabish790331-droid&theme=algolia&margin-w=10&margin-h=10&row=1&column=7" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdtabish790331-droid&show_icons=true&theme=tokyonight" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdtabish790331-droid&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📈 Most Used Languages
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdtabish790331-droid&layout=compact&theme=tokyonight&langs_count=10" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
-<p>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img align="left" src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="mailto:your@email.com"><img align="left" src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+## ⚡ Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdtabish790331-droid&theme=tokyo-night" />
 </p>
+
+---
+
+<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
