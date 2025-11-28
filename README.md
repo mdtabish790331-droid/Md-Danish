@@ -1,82 +1,71 @@
 <h1 align="center">Hi 👋, I'm Mohammad Danish</h1>
-<h3 align="center">A passionate Frontend & AI Enthusiast from India</h3>
+<h3 align="center">AI & Frontend Developer | ML/DL Enthusiast | Tech Explorer</h3>
+
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdtabish790331-droid&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mdtabish790331-droid&label=Visitors&color=blue&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-<!-- Coding GIF -->
+## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mdtabish790331-droid&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
 </p>
-
----
-
-## 🚀 About Me
-
-- 🔭 I’m currently working on **Agro-Analytica**  
-- 🌱 Learning **Deep Learning, Machine Learning**  
-- 👯 Collaboration on **AI-Based Body Measurement & Movement Recognition System**  
-- 🤝 Looking for help with **Deep Learning**  
-- 👨‍💻 All my projects → **https://github.com/mdtabish790331-droid**  
-- 📫 Reach me at **mdtabish790331@gmail.com**  
 
 ---
 
 ## 🌐 Connect With Me
-<p align="left">
-<a href="https://twitter.com/moh_danish_" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" height="50" />
-</a>
-<a href="https://linkedin.com/in/mohammad danish" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-</a>
-<a href="https://instagram.com/danishismanifesting" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="50" />
-</a>
-<a href="https://www.hackerrank.com/@mdtabish811201" target="_blank">
-  <img src="https://skillicons.dev/icons?i=hackerrank" height="50" />
-</a>
+<p align="center">
+  <a href="https://twitter.com/moh_danish_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+  </a>
+  <a href="https://linkedin.com/in/mohammad danish" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  <a href="https://instagram.com/danishismanifesting" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+  </a>
+  <a href="https://www.hackerrank.com/mdtabish811201" target="_blank">
+    <img src="https://skillicons.dev/icons?i=hackerrank" height="45"/>
+  </a>
 </p>
 
 ---
 
-## 🛠 Languages & Tools  
+## 🚀 Skills & Technologies  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,react,nodejs,mysql,git,github,linux,blender,ps&theme=dark" height="60" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdtabish790331-droid&theme=algolia&margin-w=10&margin-h=10&row=1&column=7" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,git,github,linux,ps,blender" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-<img width="48%" src="https://github-readme-stats-mdtabish790331-droid.vercel.app/api?username=mdtabish790331-droid&show_icons=true&theme=tokyonight" />
-<img width="48%" src="https://github-readme-stats-mdtabish790331-droid.vercel.app/api/top-langs/?username=mdtabish790331-droid&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats-mdtabish790331-droid.vercel.app/api?username=mdtabish790331-droid&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats-mdtabish790331-droid.vercel.app/api/top-langs/?username=mdtabish790331-droid&layout=compact&theme=tokyonight" />
 </p>
 
-
 ---
 
-## 📈 Most Used Languages
-<img width="48%" src="https://github-readme-stats-mdtabish790331-droid.vercel.app/api/top-langs/?username=mdtabish790331-droid&layout=compact&theme=tokyonight" />
-
-
----
-
-## ⚡ Activity Graph
+## 🔥 GitHub Streak  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdtabish790331-droid&theme=tokyo-night" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdtabish790331-droid&theme=tokyonight" />
 </p>
 
 ---
 
-<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
+## 💼 About Me  
+- 🔭 I’m currently working on **Agro-Analytica (Crop & Disease Prediction System)**
+- 🌱 Learning **Deep Learning, ML, AI**  
+- 👯 Open to collaborate on **AI/ML-based projects**
+- 📫 Reach me at **mdtabish790331@gmail.com**
+- 👨‍💻 All my projects → **https://github.com/mdtabish790331-droid**
+
+---
+
+## ☕ Support Me  
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-orange" height="30"></a>
+</p>
